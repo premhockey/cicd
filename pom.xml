@@ -58,7 +58,7 @@
             <version>3.0</version>
 	    <configuration>
 	        <failOnMissingWebXml>false</failOnMissingWebXml>
-		</configuration>
+            </configuration>
         </plugin>
     </plugins>
 </build>
